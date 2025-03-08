@@ -15,4 +15,6 @@ Go to the terraform directory
 `terraform apply`
 
 If you go to the IPv4 address of your EC2 instance that appears at the end, you will see this page, which means everything worked successfully.
-![image](https://github.com/user-attachments/assets/0db13c86-ea9f-4f01-8572-5cbb0cecbd72)
+
+![image](https://github.com/user-attachments/assets/d20ebfc0-78b5-42a5-941d-cecb0f7845fd)
+
